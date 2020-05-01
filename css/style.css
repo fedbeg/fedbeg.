@@ -233,7 +233,7 @@ html {
     font-size: 1.3rem; }
 
 .one {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.24)), url(img/img1.jpg); }
+  background-image: linear-gradient(rgba(0, 0, 0, 0.226), rgba(0, 0, 0, 0.24)), url(../img/img1.jpg); }
 
 .footer {
   background-image: linear-gradient(rgba(0, 0, 0, 0.822), rgba(0, 0, 0, 0.795)), url(http://thoughtpartner.co/wp-content/uploads/2020/01/CTA-1.jpg);
